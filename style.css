@@ -77,9 +77,35 @@ h2 {
    
 }
 
+
+
 .links-list li a span {
     display: block;
     color: gray;
     margin-top: 10px;
 }
 
+.links-list1 a {
+    text-decoration: none;
+    display: block;
+    background-color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #364DCC;
+    font-weight: bold;
+    text-align: left;
+    margin: 0px 5px;
+    box-shadow: 0 0 20px white;
+}
+
+.links-list1 li {
+    margin: 10px 20px;
+    list-style: none;
+}
+
+.links-list1 li a span {
+    display: block;
+    color: gray;
+    margin-top: 10px;
+    
+}
